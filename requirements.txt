@@ -1,0 +1,11 @@
+matplotlib
+scikit-learn
+fire
+torchinfo
+numpy
+plotext
+pandas
+wandb
+lightning
+datasets
+huggingface_hub
